@@ -1,5 +1,5 @@
 
-let imagePairs0 = [
+let imagePairs = [
   { a: "familia1.jpg", b: "familia1_b.jpg" },
   { a: "familia2.jpg", b: "familia2_b.jpg" },
   { a: "familia3.jpg", b: "familia3_b.jpg" },
